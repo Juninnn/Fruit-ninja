@@ -1,2 +1,2 @@
 fruit ninja
-juninm0.github.io/fruitninja
+https://juninnn.github.io/fruitninja/
